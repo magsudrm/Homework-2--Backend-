@@ -1,0 +1,43 @@
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).Views.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\bin\Debug\netcoreapp3.1\Homework 2 (Backend).Views.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).RazorAssemblyInfo.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).RazorAssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\staticwebassets\Homework 2 (Backend).StaticWebAssets.Manifest.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\staticwebassets\Homework 2 (Backend).StaticWebAssets.Pack.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Homework 2 (Backend).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Homework 2 (Backend).props
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Homework 2 (Backend).props
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Homework 2 (Backend).props
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).TagHelpers.input.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).TagHelpers.output.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).RazorCoreGenerate.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Student\Detail.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).RazorTargetAssemblyInfo.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).RazorTargetAssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).Views.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).genruntimeconfig.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Homework 2 (Backend).csproj.CopyComplete
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework 2 (Backend)\Homework 2 (Backend)\obj\Debug\netcoreapp3.1\Razor\Views\Student\Error.cshtml.g.cs

@@ -1,0 +1,17 @@
+﻿@model StudentViewModel
+
+<h1>Students</h1>
+<ul>
+	@foreach(Student std in Model.Students)
+	{
+		<li>@std.Id  @std.FullName   <span style="color:@(std.Point<65?"red":"green")">@std.Point</span></li>
+	}
+</ul>
+
+<h1>Groups</h1>
+<ul>
+	@foreach (Group grp in Model.Groups)
+	{
+		<li>@grp.Id  @grp.Name</li>
+	}
+</ul>
